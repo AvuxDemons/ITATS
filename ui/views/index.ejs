@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html data-theme="light">
+
+    <head>
+
+        <title>ITATS</title>
+
+        <link href="https://cdn.jsdelivr.net/npm/daisyui@2.51.3/dist/full.css" rel="stylesheet" type="text/css" />
+        <script src="https://cdn.tailwindcss.com"></script>
+        <script src="https://kit.fontawesome.com/9be2a644bf.js"></script>
+        <script src="https://code.jquery.com/jquery-3.6.3.min.js"
+            integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+
+        <style>
+            body {
+                font-family: 'Roboto', sans-serif;
+            }
+        </style>
+    </head>
+
+    <body class="bg-white">
+
+        <%- include('components/navbar') %>
+
+        <%- include('section/hero') %>
+        <%- include('section/announcement') %>
+        <%- include('section/mahasiswa') %>
+        <%- include('section/laboratorium') %>
+        <%- include('section/fakultas') %>
+
+        <!-- <%- include('section/ads') %> -->
+        <%- include('components/footer') %>
+
+    </body>
+
+</html>

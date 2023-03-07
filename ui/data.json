@@ -1,0 +1,114 @@
+{
+    "info": {
+        "version": "1.0.5",
+        "announcement": [
+            "[ 1.0.5 - Classroom Otomatis Mengarah Ke Home Page ]",
+            "[ 1.0.4 - Update Styling UI ]",
+            "[ 1.0.3 - Icon Forum Fakultas Baru ]"
+        ]
+    },
+    "data": {
+        "mahasiswa": [
+            {
+                "nama": "Akademik",
+                "detail": "sim.itats.ac.id",
+                "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082313359631843418/image.png",
+                "url": "https://sim.itats.ac.id"
+            },
+            {
+                "nama": "Classroom",
+                "detail": "classroom.itats.ac.id",
+                "thumbnail": "https://image.shutterstock.com/image-photo/image-260nw-623895011.jpg",
+                "url": "https://classroom.itats.ac.id/mahasiswa/home"
+            }
+        ],
+        "laboratorium": [
+            {
+                "nama": "T. Informatika",
+                "detail": "Laboratorium",
+                "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082349112038543440/20230307_000844.png",
+                "url": "https://labinformatika.itats.ac.id/"
+            }
+        ],
+        "fakultas": [
+            {
+                "nama": "Teknik Mesin",
+                "detail": "FTI",
+                "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082349492763906068/20230307_001000.png",
+                "url": "https://me.itats.ac.id"
+            },
+            {
+                "nama": "Teknik Industri",
+                "detail": "FTI",
+                "thumbnail": "",
+                "url": "https://ie.itats.ac.id"
+            },
+            {
+                "nama": "Teknik Kimia",
+                "detail": "FTI",
+                "thumbnail": "",
+                "url": "https://kimia.itats.ac.id"
+            },
+            {
+                "nama": "Teknik Sipil",
+                "detail": "FTSP",
+                "thumbnail": "",
+                "url": "https://sipil.itats.ac.id"
+            },
+            {
+                "nama": "Arsitektur",
+                "detail": "FTSP",
+                "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082349494173180054/20230307_000903.png",
+                "url": "https://arsitektur.itats.ac.id"
+            },
+            {
+                "nama": "T. Lingkungan",
+                "detail": "FTSP",
+                "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082349493950885948/20230307_000915.png",
+                "url": "https://lingkungan.itats.ac.id"
+            },
+            {
+                "nama": "Desain Produk",
+                "detail": "FTSP",
+                "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082349493632127038/20230307_000926.png",
+                "url": "https://desproitats.com/"
+            },
+            {
+                "nama": "Teknik Elektro",
+                "detail": "FTETI",
+                "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082349493372067971/20230307_000935.png",
+                "url": "https://elektro.itats.ac.id"
+            },
+            {
+                "nama": "T. Informatika",
+                "detail": "FTETI",
+                "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082349112038543440/20230307_000844.png",
+                "url": "https://if.itats.ac.id"
+            },
+            {
+                "nama": "Sistem Informasi",
+                "detail": "FTETI",
+                "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082311207584796672/Himsi.png",
+                "url": "https://si.itats.ac.id"
+            },
+            {
+                "nama": "T. Pertambangan",
+                "detail": "FTMK",
+                "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082349493070082158/20230307_000948.png",
+                "url": "https://tambang.itats.ac.id"
+            },
+            {
+                "nama": "Teknik Industri",
+                "detail": "Program Pascasarjana",
+                "thumbnail": "",
+                "url": "https://mti.itats.ac.id"
+            },
+            {
+                "nama": "T. Lingkungan",
+                "detail": "Program Pascasarjana",
+                "thumbnail": "",
+                "url": "https://mtl.itats.ac.id"
+            }
+        ]
+    }
+}

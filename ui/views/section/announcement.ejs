@@ -1,0 +1,7 @@
+<div class="w-full bg-blue-600" id="announcement">
+    <marquee direction="left" class="text-white text-2xl my-2">
+        <% data.info.announcement.map((r) => { %>
+        <span class="px-5"><%= r %></span>
+        <% }) %>
+    </marquee>
+</div>
