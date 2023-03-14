@@ -1,10 +1,12 @@
 <footer class="bg-zinc-300 mt-8">
+    <%- include('ads') %> 
+      
     <div class="container px-6 py-8 mx-auto">
         <div class="flex flex-col items-center text-center">
             <a href="#">
                 <img class="w-auto h-20" src="https://cdn.discordapp.com/attachments/972016247795515454/1082249264014569513/itats.png">
             </a>
-            <p class="text-xl max-w-md mx-auto mt-4 text-gray-500">App Version - Beta v<%= data.info.version %></p>
+            <a class="text-2xl max-w-md mx-auto mt-2 text-gray-500" href="<%= data.info.github %>"> <i class="fa-brands fa-github"></i> Beta v<%= data.info.version %></a>
         </div>
 
         <hr class="my-5 border-gray-200" />

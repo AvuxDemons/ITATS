@@ -32,6 +32,24 @@
         ],
         "fakultas": [
             {
+                "nama": "T. Informatika",
+                "detail": "FTETI",
+                "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082349112038543440/20230307_000844.png",
+                "url": "https://if.itats.ac.id"
+            },
+            {
+                "nama": "Sistem Informasi",
+                "detail": "FTETI",
+                "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082311207584796672/Himsi.png",
+                "url": "https://si.itats.ac.id"
+            },
+            {
+                "nama": "Teknik Elektro",
+                "detail": "FTETI",
+                "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082349493372067971/20230307_000935.png",
+                "url": "https://elektro.itats.ac.id"
+            },
+            {
                 "nama": "Teknik Mesin",
                 "detail": "FTI",
                 "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082349492763906068/20230307_001000.png",
@@ -72,24 +90,6 @@
                 "detail": "FTSP",
                 "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082349493632127038/20230307_000926.png",
                 "url": "https://desproitats.com/"
-            },
-            {
-                "nama": "Teknik Elektro",
-                "detail": "FTETI",
-                "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082349493372067971/20230307_000935.png",
-                "url": "https://elektro.itats.ac.id"
-            },
-            {
-                "nama": "T. Informatika",
-                "detail": "FTETI",
-                "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082349112038543440/20230307_000844.png",
-                "url": "https://if.itats.ac.id"
-            },
-            {
-                "nama": "Sistem Informasi",
-                "detail": "FTETI",
-                "thumbnail": "https://media.discordapp.net/attachments/972016247795515454/1082311207584796672/Himsi.png",
-                "url": "https://si.itats.ac.id"
             },
             {
                 "nama": "T. Pertambangan",
